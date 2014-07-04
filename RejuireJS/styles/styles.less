@@ -1,0 +1,23 @@
+﻿body {
+
+    ul.items{
+        list-style-type:none;
+        margin-top:179px;
+        margin-left:-28px;
+
+        li.list-item{
+            border:1px solid black;
+            width:180px;
+            text-align:center;
+            display:none;
+
+            &.selected{
+                display:block;
+                border: 1px solid red;
+                position:absolute;
+                top:20px;
+                left:20px;
+            }
+        }
+    }
+}

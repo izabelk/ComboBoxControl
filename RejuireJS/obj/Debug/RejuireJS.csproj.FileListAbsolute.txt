@@ -1,0 +1,6 @@
+E:\Telerik\Homework\JavaScriptOOP\RejuireJS\RejuireJS\bin\RejuireJS.dll.config
+E:\Telerik\Homework\JavaScriptOOP\RejuireJS\RejuireJS\bin\RejuireJS.dll
+E:\Telerik\Homework\JavaScriptOOP\RejuireJS\RejuireJS\bin\RejuireJS.pdb
+E:\Telerik\Homework\JavaScriptOOP\RejuireJS\RejuireJS\obj\Debug\RejuireJS.csprojResolveAssemblyReference.cache
+E:\Telerik\Homework\JavaScriptOOP\RejuireJS\RejuireJS\obj\Debug\RejuireJS.dll
+E:\Telerik\Homework\JavaScriptOOP\RejuireJS\RejuireJS\obj\Debug\RejuireJS.pdb
